@@ -1,2 +1,4 @@
-# turtle-python
-A draw in python using turtle
+# Draw-Turtle-Python
+A draw using turtle with the language python
+
+
